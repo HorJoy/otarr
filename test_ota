@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>Lineage 14.1</RomName>
-  <VersionName>lineage-14.1-20170621-UNOFFICIAL-my90ds</VersionName>
+  <RomName>Resurrection-Remix-HorJoy</RomName>
+  <VersionName>Resurrection-Remix-UNOFFICIAL-my90ds</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
@@ -31,12 +31,12 @@
   <WebsiteURL>http://4pda.ru/forum/index.php?showuser=4509151</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>http://money.yandex.ru/to/410012996231186</DonateURL>
+  <DonateURL>No-plz-nenado</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 19.06.2017
-Обновил исходники &#10;
-Из заметного - дабл тап на локскрине &#10;
-Забыл включить в прошивку патч для звука, если надо качайте отдельно. &#10;
-Обновление безопасности от 5-ого июня</Changelog>
+проверка ота обновления  &#10;
+ &#10;
+ &#10;
+вроде норм</Changelog>
 </ROM>
